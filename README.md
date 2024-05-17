@@ -72,4 +72,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any inquiries or feedback, please contact me at [your email](mdshahidafridia31@gmail.com).
+For any inquiries or feedback, please contact me at [your email](mailto:mdshahidafridia31@gmail.com).
