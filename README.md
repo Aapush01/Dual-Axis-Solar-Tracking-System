@@ -68,7 +68,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## Acknowledgments
 
 - Thanks to all the open-source contributors whose libraries and tools have made this project possible.
-- Special thanks to our project supervisor and team members for their guidance and support.
+- Special thanks to our project supervisors (Prof. Navneet Singh and Prof.  Guddi Kumari) and team members (@Kaushal, @Mayank, @Alok and @Saurabh) for their guidance and support.
 
 ## Contact
 
